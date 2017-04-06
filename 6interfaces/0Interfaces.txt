@@ -1,0 +1,17 @@
+
+
+########## INTERFACES #############
+
+ * Description:
+ 	- One of TypeScript’s core principles is that type-checking focuses on the shape that values have.
+	 In TypeScript, interfaces fill the role of naming these types, and are a powerful way of defining contracts within your code.
+ * Help you to prevents typos at your properties
+ * optional properties -> wonderful `?` character
+ * Readonly properties -> no modify properties after object is created
+ * Readonly vs Const -> Variable const, Property readOnly
+ * Extra property 
+ * Function types: This is a function declaration with only the parameter list and return type given. 
+ * Class types: Get a contract with the interface
+ * Extending interfaces: Like classes interfaces can extend each others. That give you more flexibility to get reusable components
+
+######################################

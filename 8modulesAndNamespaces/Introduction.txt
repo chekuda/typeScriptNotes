@@ -1,0 +1,24 @@
+    
+/**********************
+    Namespaces
+**********************/
+
+Namespaces are simply named JavaScript objects in the global namespace. This makes namespaces a very simple construct to use. 
+They can span multiple files, and can be concatenated using --outFile. Namespaces can be a good way to structure your code in a Web Application, 
+with all dependencies included as <script> tags in your HTML page.
+
+Just like all global namespace pollution, it can be hard to identify component dependencies, especially in a large application.
+
+//i.e: tsc --outFile sample.js Test.ts
+
+/**********************
+    Modules
+**********************/
+
+Modules also have a dependency on a module loader (such as CommonJs/Require.js). 
+For a small JS application this might not be optimal, but for larger applications, 
+the cost comes with long term modularity and maintainability benefits. Modules provide for better code reuse, 
+stronger isolation and better tooling support for bundling.
+
+It is also worth noting that, for Node.js applications, modules are the default and the recommended approach to structure your code.
+

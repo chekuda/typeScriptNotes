@@ -1,0 +1,15 @@
+
+
+############### SUMMARY #################
+
+ * When to use typescript
+ * Basic types
+ * Variable declarations
+ * Classes
+ * Functions
+ * Interfaces
+ * Iterators and generators
+ * Modules and Namespaces
+ * Do’s and Don’ts
+
+########################################

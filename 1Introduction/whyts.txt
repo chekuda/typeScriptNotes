@@ -1,0 +1,10 @@
+
+
+############### Typescript ###################
+
+ * Why use Typescript?
+		- Large codebase : the compiler reveals the most obvious mistakes
+		- Replacement for babel: size of the compiled code is a lot smaller than when compiled with babel
+		- No need type checks: if(typeof name != ’string’)
+
+##################################################

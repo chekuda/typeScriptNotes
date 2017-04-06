@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "noImplicitAny": true
+    },
+    "files": [
+        "4classes/1class-based.ts",
+        "4classes/2inheritance.ts",
+        "4classes/3publicPrivate.ts",
+        "4classes/4accessors.ts",
+        "4classes/5staticProperties.ts",
+        "5functions/1optionaldefaultParameters.ts",
+        "5functions/2restParameters.ts",
+        "5functions/3overloads.ts"
+    ]
+}

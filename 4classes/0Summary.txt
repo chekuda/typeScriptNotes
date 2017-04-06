@@ -1,0 +1,11 @@
+
+
+######## CLASSES ###########
+
+ * Build application using Object-oriented class-based approach
+ * Extend classes using Inheritance (reuse code)
+ * Type of properties -> Public (default), Private, protected
+ * Accessor GET and SET
+ * Static properties:  Those that are visible on the class itself rather than on the instances
+
+############################

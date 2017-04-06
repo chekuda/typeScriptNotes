@@ -1,0 +1,9 @@
+
+######### FUNCTIONS ##########
+
+ * Function types: can add types to each parameter and the function itself
+ * Optional and default parameters. Key character `?`
+ * Rest Parameters: One parameter at one time and multiple parameters as a group
+ * Overloads: different types for same function
+
+ #############################
